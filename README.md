@@ -52,7 +52,7 @@ Follow these steps to generate stunning images using this Python script powered 
 ### 6.
 ![Example Image](Examples/image5.jpg "Generated image example")
 ### 7.
-![Example Image](Examples/image1.jpg "Generated image example")
+![Example Image](Examples/image11.jpg "Generated image example")
 ### 8.
 ![Example Image](Examples/image2.jpg "Generated image example")
 ### 9.
