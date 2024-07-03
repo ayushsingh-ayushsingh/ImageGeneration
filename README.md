@@ -1,4 +1,4 @@
-# Image Generation with Selenium
+# Image Generation
 
 ## Instructions
 
@@ -33,4 +33,6 @@ Follow these steps to generate stunning images using this Python script powered 
 
 - **Generate Stunning Images:**
   - Sit back and watch as the script uses Selenium to create visually appealing images based on your inputs.
+
+![Example Image](images/example.png "Generated image example")
 
