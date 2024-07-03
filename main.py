@@ -9,7 +9,7 @@ import time
 import requests
 
 def generate_ai_art(prompt):
-    prompt = "'" + prompt + "', Enhance the image by improving its clarity, sharpness, and color balance. Ensure that the details are crisp and well-defined, with vibrant but natural-looking colors. Adjust the brightness and contrast to create a visually appealing and balanced composition. Apply a cinematic touch by incorporating dramatic lighting, deep shadows, and rich, film-like tones. Make the image feel as though it has been captured from an Oscar-winning film, with a sense of depth, emotion, and storytelling. Retain the original essence of the image while making it more visually striking and professional"
+    prompt = "'" + prompt + "', Enhance the image by improving its clarity, sharpness, and color balance. Ensure that the details are crisp and well-defined, with vibrant but natural-looking colors. Adjust the brightness and contrast to create a visually appealing and balanced composition. Apply a cinematic touch by incorporating dramatic lighting, deep shadows, and rich, film-like tones. Make the image feel as though it has been captured from an Oscar-winning film, with a sense of depth, emotion, and storytelling. Retain the original essence of the image while making it more visually striking and professional, cinematic, photographic, photograph, 4k, 8k"
     chrome_options = Options()
     chrome_options.add_argument("--headless")
     chrome_options.add_argument("--disable-gpu")
